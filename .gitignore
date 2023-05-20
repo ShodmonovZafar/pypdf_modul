@@ -161,3 +161,4 @@ cython_debug/
 
 # pdf
 *.pdf
+idle_.py
